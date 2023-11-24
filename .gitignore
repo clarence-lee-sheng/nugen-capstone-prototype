@@ -1,0 +1,4 @@
+image_captioning/data
+vector_db
+data
+.env
